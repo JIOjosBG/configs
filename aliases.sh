@@ -1,0 +1,7 @@
+alias bext="yarn build:web:webkit"
+alias gtbra="git branch | grep '*'"
+alias gtche="git branch --format='%(refname:short)' | fzf | xargs -I {} git checkout {}"
+alias gtlog="git log --format='%h - %an, %ar : %s'"
+alias gtcom="git commit -m"
+alias gtsta="git status"
+alias gta="git add ."
