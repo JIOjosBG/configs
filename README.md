@@ -2,3 +2,4 @@
 
 ## Includes
 - nvim
+- basic aliases
