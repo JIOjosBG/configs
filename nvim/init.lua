@@ -1,3 +1,4 @@
+require('startup-commands')
 require('plugins')
 require('mason-config')
 require('python-lsp-server')
